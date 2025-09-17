@@ -4,10 +4,6 @@ A sleek, responsive sidebar navigation demo built with HTML, CSS and Font Awesom
 
 ---
 
-## Demo
-
-> Replace `dslr.jpg` in the project root with your hero/background image to see the full effect.
-
 ### Key Features
 - Slide-in sidebar navigation controlled by a hidden checkbox (no JavaScript required)  
 - Clean, modern UI using Poppins and Font Awesome icons  
@@ -18,5 +14,15 @@ A sleek, responsive sidebar navigation demo built with HTML, CSS and Font Awesom
 
 ## Repository Details
 
-- **Repo name:** `lenscape-ui`  
-- **Description:** *Lenscape — a minimalist, responsive CSS-only sidebar template for photography sites and landing pages.*  
+- **Repo name:** `Lenscape-UI`  
+- **Description:** *Lenscape — a minimalist, responsive CSS-only sidebar template for photography sites and landing pages.*
+
+---
+
+## File Structure
+Lenscape-UI/
+├─ index.html
+├─ style.css
+├─ dslr.jpg
+├─ photo.jpg
+└─ README.md
